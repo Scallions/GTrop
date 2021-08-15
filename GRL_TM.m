@@ -1,8 +1,8 @@
 disp("Start calc Tm")
 mjd = 53005;
 h = 0;
-year = 2018;
-doy = 1;
+year = 2017;
+doy = 165;
 %-75/-10/55/86
 lon1 = -75; lon2 = -10;
 lat1 = 55; lat2 = 86;
